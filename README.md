@@ -29,5 +29,3 @@ Attendance Manager application for Android developed using Java, SQLite and Shar
 ### Add Attendance Screen
 <img width="300px" src="/screenshots/5.jpg" align="center" alt="Screenshot5" />
 
-### View Attendance Screen
-<img width="300px" src="/screenshots/6.jpg" align="center" alt="Screenshot6" />
